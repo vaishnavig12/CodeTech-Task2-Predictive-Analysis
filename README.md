@@ -1,11 +1,12 @@
-# CODETECH Internship – Task 2: Predictive Analysis Using Machine Learning
+# CodTech Internship – Task 2: Predictive Analysis Using Machine Learning
 
 ## 📌 Objective
-To build a machine learning model to predict outcomes based on a dataset, demonstrating
+Build a machine learning model to predict outcomes based on a dataset, including
 feature selection, model training, and evaluation.
 
 ## 📊 Dataset
-Spotify Analysis Dataset
+Spotify Analysis Dataset  
+(Used for predictive modeling of music popularity)
 
 ## 🛠️ Technologies Used
 - Python
@@ -15,19 +16,21 @@ Spotify Analysis Dataset
 - Seaborn
 - Scikit-learn
 
-## 🔍 Workflow
-- Data preprocessing and cleaning
+## 🔍 Key Steps Performed
+- Data cleaning and preprocessing
 - Feature selection
 - Train-test split
 - Model training (Regression / Classification)
-- Model evaluation using appropriate metrics
+- Model evaluation using metrics
 - Visualization of results
 
-## 📈 Results
-- Model performance evaluation
-- Multiple visualizations for insights
-- Predictions based on trained model
+## 📈 Outputs
+- Multiple visualizations
+- Trained machine learning model
+- Evaluation metrics
 
-## 📁 Project Structure
-# CodeTech-Task2-Predictive-Analysis
-Machine Learning predictive analysis task for CodeTech Internship
+## 📁 Folder Structure
+Task2-Predictive-Analysis/
+├── data/
+├── notebook/
+└── plots/
