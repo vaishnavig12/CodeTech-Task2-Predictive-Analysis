@@ -1,4 +1,4 @@
-# CodTech Internship – Task 2: Predictive Analysis Using Machine Learning
+# CodTech Internship – Task 2:- Predictive Analysis Using Machine Learning
 
 ## 📌 Objective
 Build a machine learning model to predict outcomes based on a dataset, including
